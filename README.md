@@ -22,9 +22,6 @@ NEW: 2024 - We're now able to:
 3. Use [a key / value pair](https://github.com/soft9000/SQLMate-for-Java/blob/bfb230f6ba11fd397c995e52cb4188f950e0ef50/src/com/soft9000/TestDb/SqlTestTable.java#L20) to populate [any generated](https://github.com/soft9000/SQLMate-for-Java/blob/bfb230f6ba11fd397c995e52cb4188f950e0ef50/src/com/soft9000/TestDb/SqlTestTable.java#L208) Java Class.
 
 
-Feel free to join us on [Facebook](https://www.facebook.com/randall.nagy).
-
-
 Cheers,
 
 
